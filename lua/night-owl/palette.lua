@@ -32,6 +32,7 @@ local colors = {
 	dark = "#010d18",
 	dark2 = "#021320",
 	dark3 = "#99b76d23",
+	dark4 = "#084a7c",
 	white = "#ffffff",
 	white2 = "#eeefff",
 	dark_white = "#cccccc",
